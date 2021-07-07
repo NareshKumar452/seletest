@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Suite]" parallel="true">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.dcrs.utilities.Reporting"/>
+  </listeners>
+  <test name="LoginPageTest(failed)" parallel="true">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.dcrs.testscripts.TimeTrackTest_TC01_createNewTask">
+        <methods>
+          <include name="createNewTimeTrackTask"/>
+          <include name="tearDown"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- com.dcrs.testscripts.TimeTrackTest_TC01_createNewTask -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

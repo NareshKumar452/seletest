@@ -1,0 +1,508 @@
+2021-06-15 17:34:34,498 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:34:35,363 - seletest -INFO - Entered UserName
+2021-06-15 17:34:36,307 - seletest -INFO - Entered Password
+2021-06-15 17:34:36,621 - seletest -INFO - Login Successful
+2021-06-15 17:34:36,632 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:36:25,707 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:36:26,103 - seletest -INFO - Entered UserName
+2021-06-15 17:36:26,203 - seletest -INFO - Entered Password
+2021-06-15 17:36:26,287 - seletest -INFO - Login Successful
+2021-06-15 17:36:31,313 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:42:28,948 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:42:29,385 - seletest -INFO - Entered UserName
+2021-06-15 17:42:29,526 - seletest -INFO - Entered Password
+2021-06-15 17:42:29,650 - seletest -INFO - Login Successful
+2021-06-15 17:42:36,770 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:46:49,895 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:46:52,736 - seletest -INFO - Entered UserName
+2021-06-15 17:46:53,232 - seletest -INFO - Entered Password
+2021-06-15 17:46:53,557 - seletest -INFO - Login Successful
+2021-06-15 17:46:59,191 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:49:17,226 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:49:17,576 - seletest -INFO - Entered UserName
+2021-06-15 17:49:17,774 - seletest -INFO - Entered Password
+2021-06-15 17:49:17,890 - seletest -INFO - Login Successful
+2021-06-15 17:49:22,902 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:50:55,800 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:50:56,287 - seletest -INFO - Entered UserName
+2021-06-15 17:50:56,448 - seletest -INFO - Entered Password
+2021-06-15 17:50:56,735 - seletest -INFO - Login Successful
+2021-06-15 17:51:02,496 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 17:52:04,961 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 17:52:05,383 - seletest -INFO - Entered UserName
+2021-06-15 17:52:05,507 - seletest -INFO - Entered Password
+2021-06-15 17:52:05,631 - seletest -INFO - Login Successful
+2021-06-15 17:52:10,690 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 18:22:00,199 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:22:01,478 - seletest -INFO - Entered UserName
+2021-06-15 18:22:01,753 - seletest -INFO - Entered Password
+2021-06-15 18:22:01,867 - seletest -INFO - Login Successful
+2021-06-15 18:22:06,921 - seletest -INFO - ActiTime Loging test failed
+2021-06-15 18:31:09,460 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:31:09,859 - seletest -INFO - Entered UserName
+2021-06-15 18:31:09,988 - seletest -INFO - Entered Password
+2021-06-15 18:31:10,108 - seletest -INFO - Login Successful
+2021-06-15 18:32:02,128 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:32:02,557 - seletest -INFO - Entered UserName
+2021-06-15 18:32:02,680 - seletest -INFO - Entered Password
+2021-06-15 18:32:02,812 - seletest -INFO - Login Successful
+2021-06-15 18:32:07,863 - seletest -INFO - Login test passed
+2021-06-15 18:45:54,830 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:45:55,228 - seletest -INFO - Entered UserName
+2021-06-15 18:45:55,359 - seletest -INFO - Entered Password
+2021-06-15 18:45:55,459 - seletest -INFO - Login Successful
+2021-06-15 18:46:00,514 - seletest -INFO - Login test passed
+2021-06-15 18:46:40,736 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:46:41,160 - seletest -INFO - Entered UserName
+2021-06-15 18:46:41,279 - seletest -INFO - Entered Password
+2021-06-15 18:46:41,398 - seletest -INFO - Login Successful
+2021-06-15 18:46:51,325 - seletest -INFO - Login test passed
+2021-06-15 18:50:48,836 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:50:49,266 - seletest -INFO - Entered UserName
+2021-06-15 18:50:49,390 - seletest -INFO - Entered Password
+2021-06-15 18:50:49,534 - seletest -INFO - Login Successful
+2021-06-15 18:50:55,249 - seletest -INFO - Login test passed
+2021-06-15 18:52:52,082 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:52:52,538 - seletest -INFO - Entered UserName
+2021-06-15 18:52:52,665 - seletest -INFO - Entered Password
+2021-06-15 18:52:52,792 - seletest -INFO - Login Successful
+2021-06-15 18:52:58,494 - seletest -INFO - Login test passed
+2021-06-15 18:54:51,948 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 18:54:52,337 - seletest -INFO - Entered UserName
+2021-06-15 18:54:52,502 - seletest -INFO - Entered Password
+2021-06-15 18:54:52,648 - seletest -INFO - Login Successful
+2021-06-15 18:54:57,702 - seletest -INFO - Login test passed
+2021-06-15 19:47:04,902 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 20:19:53,241 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 20:19:53,639 - seletest -INFO - Entered UserName
+2021-06-15 20:19:53,802 - seletest -INFO - Entered Password
+2021-06-15 20:19:53,939 - seletest -INFO - Login Successful
+2021-06-15 20:19:58,988 - seletest -INFO - Login test passed
+2021-06-15 20:23:49,937 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 20:23:50,326 - seletest -INFO - Entered UserName
+2021-06-15 20:23:50,448 - seletest -INFO - Entered Password
+2021-06-15 20:23:50,677 - seletest -INFO - Login Successful
+2021-06-15 20:23:55,734 - seletest -INFO - Login test passed
+2021-06-15 21:36:52,197 - seletest -INFO - ActiTime URL is Launched
+2021-06-15 21:36:52,926 - seletest -INFO - Entered UserName
+2021-06-15 21:36:53,024 - seletest -INFO - Entered Password
+2021-06-15 21:36:53,688 - seletest -INFO - Login Successful
+2021-06-15 21:36:59,051 - seletest -INFO - Login test passed
+2021-06-17 08:19:05,901 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 08:19:07,756 - seletest -INFO - Entered UserName
+2021-06-17 08:19:07,950 - seletest -INFO - Entered Password
+2021-06-17 08:19:08,162 - seletest -INFO - Login Successful
+2021-06-17 08:19:13,230 - seletest -INFO - Login test passed
+2021-06-17 08:48:10,326 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 08:49:23,850 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 08:49:24,248 - seletest -INFO - Entered UserName
+2021-06-17 08:49:24,378 - seletest -INFO - Entered Password
+2021-06-17 08:49:24,522 - seletest -INFO - Login Successful
+2021-06-17 08:49:29,575 - seletest -INFO - Login test passed
+2021-06-17 09:10:20,288 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 09:10:20,882 - seletest -INFO - Entered UserName
+2021-06-17 09:10:21,023 - seletest -INFO - Entered Password
+2021-06-17 09:10:21,171 - seletest -INFO - Login Successful
+2021-06-17 09:34:09,648 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 09:34:10,061 - seletest -INFO - Entered UserName
+2021-06-17 09:34:10,177 - seletest -INFO - Entered Password
+2021-06-17 09:34:10,326 - seletest -INFO - Clicked on Login Button
+2021-06-17 09:34:45,377 - seletest -INFO - ActiTime Loging test failed
+2021-06-17 09:35:57,426 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 09:35:57,876 - seletest -INFO - Entered UserName
+2021-06-17 09:35:58,017 - seletest -INFO - Entered Password
+2021-06-17 09:35:58,130 - seletest -INFO - Clicked on Login Button
+2021-06-17 09:36:03,210 - seletest -INFO - Login Successful
+2021-06-17 09:36:08,220 - seletest -INFO - Login test passed
+2021-06-17 09:56:45,301 - seletest -INFO - Entered User Name
+2021-06-17 09:56:45,420 - seletest -INFO - Entered the password
+2021-06-17 09:56:45,538 - seletest -INFO - Clicked on Login Button
+2021-06-17 09:58:46,190 - seletest -INFO - Entered User Name
+2021-06-17 09:58:46,316 - seletest -INFO - Entered the password
+2021-06-17 09:58:46,417 - seletest -INFO - Clicked on Login Button
+2021-06-17 09:58:48,048 - seletest -INFO - Entered invalid credentials
+2021-06-17 10:02:42,625 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 10:02:43,050 - seletest -INFO - Entered UserName
+2021-06-17 10:02:43,175 - seletest -INFO - Entered Password
+2021-06-17 10:02:43,284 - seletest -INFO - Clicked on Login Button
+2021-06-17 10:03:08,194 - seletest -INFO - ActiTime Loging test failed
+2021-06-17 10:03:18,253 - seletest -INFO - Entered User Name
+2021-06-17 10:03:18,455 - seletest -INFO - Entered the password
+2021-06-17 10:03:18,632 - seletest -INFO - Clicked on Login Button
+2021-06-17 10:03:20,425 - seletest -INFO - Entered invalid credentials
+2021-06-17 10:14:25,522 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 10:14:25,881 - seletest -INFO - Entered UserName
+2021-06-17 10:14:25,983 - seletest -INFO - Entered Password
+2021-06-17 10:14:26,073 - seletest -INFO - Clicked on Login Button
+2021-06-17 10:14:31,127 - seletest -INFO - Login Successful
+2021-06-17 10:14:36,141 - seletest -INFO - Login test passed
+2021-06-17 10:14:46,908 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 10:14:47,083 - seletest -INFO - Entered the password
+2021-06-17 10:14:47,189 - seletest -INFO - Clicked on Login Button
+2021-06-17 10:14:48,803 - seletest -INFO - Entered invalid credentials
+2021-06-17 11:41:28,157 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 11:41:28,522 - seletest -INFO - Entered UserName
+2021-06-17 11:41:28,645 - seletest -INFO - Entered Password
+2021-06-17 11:41:28,782 - seletest -INFO - Clicked on Login Button
+2021-06-17 11:41:33,838 - seletest -INFO - Login Successful
+2021-06-17 11:41:38,854 - seletest -INFO - Login test passed
+2021-06-17 11:41:48,728 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 11:41:48,938 - seletest -INFO - Entered the password
+2021-06-17 11:41:49,140 - seletest -INFO - Clicked on Login Button
+2021-06-17 11:41:50,676 - seletest -INFO - Entered invalid credentials
+2021-06-17 13:34:16,762 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 13:34:17,206 - seletest -INFO - Entered UserName
+2021-06-17 13:34:17,389 - seletest -INFO - Entered Password
+2021-06-17 13:34:17,483 - seletest -INFO - Clicked on Login Button
+2021-06-17 13:34:22,592 - seletest -INFO - Login Successful
+2021-06-17 13:34:27,629 - seletest -INFO - Login test passed
+2021-06-17 13:34:40,939 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 13:34:41,096 - seletest -INFO - Entered the password
+2021-06-17 13:34:41,233 - seletest -INFO - Clicked on Login Button
+2021-06-17 13:34:42,798 - seletest -INFO - Entered invalid credentials
+2021-06-17 14:16:11,973 - seletest -INFO - ActiTime URL is Launched
+2021-06-17 14:16:12,228 - seletest -INFO - Entered UserName
+2021-06-17 14:16:12,350 - seletest -INFO - Entered Password
+2021-06-17 14:16:12,488 - seletest -INFO - Clicked on Login Button
+2021-06-17 14:16:17,495 - seletest -INFO - Login Successful
+2021-06-17 14:16:22,498 - seletest -INFO - Login test passed
+2021-06-17 14:16:32,406 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 14:16:32,582 - seletest -INFO - Entered the password
+2021-06-17 14:16:32,759 - seletest -INFO - Clicked on Login Button
+2021-06-17 14:16:34,300 - seletest -INFO - Entered invalid credentials
+2021-06-17 15:42:07,197 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 15:42:07,426 - seletest -INFO - Entered the password
+2021-06-17 15:42:07,586 - seletest -INFO - Clicked on Login Button
+2021-06-17 15:42:09,141 - seletest -INFO - Entered invalid credentials
+2021-06-17 15:44:52,242 - seletest -INFO - Entered InvalidUser Name
+2021-06-17 15:44:52,402 - seletest -INFO - Entered the password
+2021-06-17 15:44:52,574 - seletest -INFO - Clicked on Login Button
+2021-06-17 15:44:54,131 - seletest -INFO - Entered invalid credentials
+2021-06-17 18:51:28,140 - seletest -INFO - Login Successful
+2021-06-17 18:51:39,829 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-17 20:45:33,575 - seletest -INFO - Login Successful
+2021-06-17 20:45:44,770 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-17 20:53:39,782 - seletest -INFO - Login Successful
+2021-06-17 20:53:56,424 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-17 20:55:00,312 - seletest -INFO - Login Successful
+2021-06-17 20:55:16,823 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-17 20:58:57,449 - seletest -INFO - Login Successful
+2021-06-17 20:59:13,038 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-17 21:00:35,351 - seletest -INFO - Login Successful
+2021-06-17 21:00:57,395 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-18 08:39:53,290 - seletest -INFO - Login Successful
+2021-06-18 08:42:24,228 - seletest -INFO - Login Successful
+2021-06-18 08:49:41,205 - seletest -INFO - Login Successful
+2021-06-18 08:49:50,490 - seletest -INFO - In create timetrack task screen
+2021-06-18 08:49:56,981 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-18 08:52:30,378 - seletest -INFO - Login Successful
+2021-06-18 08:52:39,657 - seletest -INFO - In create timetrack task screen
+2021-06-18 08:53:59,027 - seletest -INFO - Login Successful
+2021-06-18 08:54:09,286 - seletest -INFO - In create timetrack task screen
+2021-06-18 08:55:11,967 - seletest -INFO - Login Successful
+2021-06-18 08:55:21,421 - seletest -INFO - In create timetrack task screen
+2021-06-18 08:55:57,836 - seletest -INFO - Task creation is UnSuccessful due to some error
+2021-06-18 09:03:19,236 - seletest -INFO - Login Successful
+2021-06-18 09:03:30,752 - seletest -INFO - In create timetrack task screen
+2021-06-18 10:16:56,290 - seletest -INFO - Login Successful
+2021-06-18 10:17:09,326 - seletest -INFO - In create timetrack task screen
+2021-06-18 10:17:45,733 - seletest -INFO - Task creation is UnSuccessful due to some error
+2021-06-18 10:20:47,677 - seletest -INFO - Login Successful
+2021-06-18 10:20:57,404 - seletest -INFO - In create timetrack task screen
+2021-06-18 10:21:03,434 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-18 10:35:55,315 - seletest -INFO - Login Successful
+2021-06-18 10:36:04,589 - seletest -INFO - In create timetrack task screen
+2021-06-18 10:39:14,743 - seletest -INFO - Login Successful
+2021-06-18 10:39:25,599 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:14:34,730 - seletest -INFO - Login Successful
+2021-06-18 11:14:45,038 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:14:51,452 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-18 11:16:18,908 - seletest -INFO - Login Successful
+2021-06-18 11:16:28,998 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:19:39,935 - seletest -INFO - Login Successful
+2021-06-18 11:19:49,928 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:26:28,182 - seletest -INFO - Login Successful
+2021-06-18 11:26:40,565 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:29:30,079 - seletest -INFO - Login Successful
+2021-06-18 11:29:39,469 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:29:39,510 - seletest -INFO - Got the timetrack Title
+2021-06-18 11:31:26,199 - seletest -INFO - Login Successful
+2021-06-18 11:31:35,612 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:31:35,688 - seletest -INFO - captured the timetrack Title
+2021-06-18 11:34:04,668 - seletest -INFO - Login Successful
+2021-06-18 11:34:14,251 - seletest -INFO - In create timetrack task screen
+2021-06-18 11:34:14,291 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:04:36,401 - seletest -INFO - Login Successful
+2021-06-18 12:04:46,828 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:04:46,908 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:08:10,475 - seletest -INFO - Login Successful
+2021-06-18 12:08:20,394 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:08:20,518 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:08:22,137 - seletest -INFO - Selected new customer
+2021-06-18 12:10:12,786 - seletest -INFO - Login Successful
+2021-06-18 12:10:22,415 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:10:22,473 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:10:23,463 - seletest -INFO - Selected new customer
+2021-06-18 12:11:40,370 - seletest -INFO - Login Successful
+2021-06-18 12:11:50,167 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:11:50,225 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:11:51,169 - seletest -INFO - Selected new customer
+2021-06-18 12:58:16,623 - seletest -INFO - Login Successful
+2021-06-18 12:58:27,735 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:58:28,219 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:58:29,141 - seletest -INFO - Selected new customer
+2021-06-18 12:59:31,903 - seletest -INFO - Login Successful
+2021-06-18 12:59:42,093 - seletest -INFO - In create timetrack task screen
+2021-06-18 12:59:42,245 - seletest -INFO - captured the timetrack Title
+2021-06-18 12:59:42,498 - seletest -INFO - Selected new customer
+2021-06-18 12:59:42,640 - seletest -INFO - Entered customer name
+2021-06-18 12:59:42,764 - seletest -INFO - Entered project name
+2021-06-18 12:59:42,903 - seletest -INFO - Enter Task Name
+2021-06-18 12:59:48,755 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-19 20:29:43,383 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 20:29:44,431 - seletest -INFO - Entered UserName
+2021-06-19 20:29:44,545 - seletest -INFO - Entered Password
+2021-06-19 20:29:44,819 - seletest -INFO - Clicked on Login Button
+2021-06-19 20:29:49,823 - seletest -INFO - Login Successful
+2021-06-19 20:29:54,893 - seletest -INFO - Login test passed
+2021-06-19 20:59:58,485 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 21:00:02,542 - seletest -INFO - Entered UserName
+2021-06-19 21:00:03,698 - seletest -INFO - Entered Password
+2021-06-19 21:00:04,598 - seletest -INFO - Clicked on Login Button
+2021-06-19 21:00:09,603 - seletest -INFO - Login Successful
+2021-06-19 21:00:14,607 - seletest -INFO - Login test passed
+2021-06-19 21:00:27,977 - seletest -INFO - Login Successful
+2021-06-19 21:00:37,674 - seletest -INFO - In create timetrack task screen
+2021-06-19 21:00:37,757 - seletest -INFO - captured the timetrack Title
+2021-06-19 21:00:38,025 - seletest -INFO - Selected new customer
+2021-06-19 21:00:38,148 - seletest -INFO - Entered customer name
+2021-06-19 21:00:38,274 - seletest -INFO - Entered project name
+2021-06-19 21:00:38,412 - seletest -INFO - Enter Task Name
+2021-06-19 21:07:40,224 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 21:07:40,620 - seletest -INFO - Entered UserName
+2021-06-19 21:07:41,084 - seletest -INFO - Entered Password
+2021-06-19 21:07:41,246 - seletest -INFO - Clicked on Login Button
+2021-06-19 21:07:46,262 - seletest -INFO - Login Successful
+2021-06-19 21:07:51,287 - seletest -INFO - Login test passed
+2021-06-19 21:08:05,872 - seletest -INFO - Login Successful
+2021-06-19 21:08:16,027 - seletest -INFO - In create timetrack task screen
+2021-06-19 21:08:16,137 - seletest -INFO - captured the timetrack Title
+2021-06-19 21:08:16,397 - seletest -INFO - Selected new customer
+2021-06-19 21:08:16,515 - seletest -INFO - Entered customer name
+2021-06-19 21:08:16,642 - seletest -INFO - Entered project name
+2021-06-19 21:08:16,776 - seletest -INFO - Enter Task Name
+2021-06-19 21:08:22,574 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-19 21:09:38,782 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 21:09:39,183 - seletest -INFO - Entered UserName
+2021-06-19 21:09:39,291 - seletest -INFO - Entered Password
+2021-06-19 21:09:39,466 - seletest -INFO - Clicked on Login Button
+2021-06-19 21:09:44,479 - seletest -INFO - Login Successful
+2021-06-19 21:09:49,516 - seletest -INFO - Login test passed
+2021-06-19 21:10:03,588 - seletest -INFO - Login Successful
+2021-06-19 21:10:13,704 - seletest -INFO - In create timetrack task screen
+2021-06-19 21:10:13,772 - seletest -INFO - captured the timetrack Title
+2021-06-19 21:10:14,041 - seletest -INFO - Selected new customer
+2021-06-19 21:10:14,170 - seletest -INFO - Entered customer name
+2021-06-19 21:10:14,297 - seletest -INFO - Entered project name
+2021-06-19 21:10:14,419 - seletest -INFO - Enter Task Name
+2021-06-19 21:10:19,872 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-19 21:14:03,528 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 21:14:04,528 - seletest -INFO - Entered UserName
+2021-06-19 21:14:05,018 - seletest -INFO - Entered Password
+2021-06-19 21:14:05,133 - seletest -INFO - Clicked on Login Button
+2021-06-19 21:14:10,146 - seletest -INFO - Login Successful
+2021-06-19 21:14:15,162 - seletest -INFO - Login test passed
+2021-06-19 21:14:29,806 - seletest -INFO - Login Successful
+2021-06-19 21:14:39,561 - seletest -INFO - In create timetrack task screen
+2021-06-19 21:14:39,660 - seletest -INFO - captured the timetrack Title
+2021-06-19 21:14:39,927 - seletest -INFO - Selected new customer
+2021-06-19 21:14:40,046 - seletest -INFO - Entered customer name
+2021-06-19 21:14:40,179 - seletest -INFO - Entered project name
+2021-06-19 21:14:40,316 - seletest -INFO - Enter Task Name
+2021-06-19 21:14:46,027 - seletest -INFO - Task Creation is unsuccesful
+2021-06-19 21:17:13,797 - seletest -INFO - ActiTime URL is Launched
+2021-06-19 21:17:14,095 - seletest -INFO - Entered UserName
+2021-06-19 21:17:14,219 - seletest -INFO - Entered Password
+2021-06-19 21:17:14,409 - seletest -INFO - Clicked on Login Button
+2021-06-19 21:17:19,424 - seletest -INFO - Login Successful
+2021-06-19 21:17:24,429 - seletest -INFO - Login test passed
+2021-06-19 21:17:37,844 - seletest -INFO - Login Successful
+2021-06-19 21:17:51,188 - seletest -INFO - In create timetrack task screen
+2021-06-19 21:17:51,269 - seletest -INFO - captured the timetrack Title
+2021-06-19 21:17:51,555 - seletest -INFO - Selected new customer
+2021-06-19 21:17:51,679 - seletest -INFO - Entered customer name
+2021-06-19 21:17:51,837 - seletest -INFO - Entered project name
+2021-06-19 21:17:51,958 - seletest -INFO - Enter Task Name
+2021-06-19 21:18:27,531 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-20 08:19:39,345 - seletest -INFO - ActiTime URL is Launched
+2021-06-20 08:19:40,416 - seletest -INFO - Entered UserName
+2021-06-20 08:19:40,869 - seletest -INFO - Entered Password
+2021-06-20 08:19:41,413 - seletest -INFO - Clicked on Login Button
+2021-06-20 08:19:46,417 - seletest -INFO - Login Successful
+2021-06-20 08:19:51,423 - seletest -INFO - Login test passed
+2021-06-20 08:20:07,391 - seletest -INFO - Login Successful
+2021-06-20 08:20:16,901 - seletest -INFO - In create timetrack task screen
+2021-06-20 08:20:16,979 - seletest -INFO - captured the timetrack Title
+2021-06-20 08:20:17,236 - seletest -INFO - Selected new customer
+2021-06-20 08:20:17,356 - seletest -INFO - Entered customer name
+2021-06-20 08:20:17,484 - seletest -INFO - Entered project name
+2021-06-20 08:20:17,608 - seletest -INFO - Enter Task Name
+2021-06-20 08:20:53,098 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-24 14:26:59,354 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:27:00,697 - seletest -INFO - Entered UserName
+2021-06-24 14:27:01,079 - seletest -INFO - Entered Password
+2021-06-24 14:27:01,284 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:27:06,285 - seletest -INFO - Login Successful
+2021-06-24 14:27:11,304 - seletest -INFO - Login test passed
+2021-06-24 14:27:25,435 - seletest -INFO - Login Successful
+2021-06-24 14:27:36,694 - seletest -INFO - In create timetrack task screen
+2021-06-24 14:27:36,898 - seletest -INFO - captured the timetrack Title
+2021-06-24 14:27:37,150 - seletest -INFO - Selected new customer
+2021-06-24 14:27:37,279 - seletest -INFO - Entered customer name
+2021-06-24 14:27:37,412 - seletest -INFO - Entered project name
+2021-06-24 14:27:37,531 - seletest -INFO - Enter Task Name
+2021-06-24 14:28:13,194 - seletest -INFO - New TimeTrack Task Created succesfully
+2021-06-24 14:28:58,044 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:28:58,598 - seletest -INFO - Entered UserName
+2021-06-24 14:28:58,720 - seletest -INFO - Entered Password
+2021-06-24 14:28:59,002 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:29:04,008 - seletest -INFO - Login Successful
+2021-06-24 14:29:09,034 - seletest -INFO - Login test passed
+2021-06-24 14:29:23,988 - seletest -INFO - Login Successful
+2021-06-24 14:29:34,674 - seletest -INFO - In create timetrack task screen
+2021-06-24 14:29:34,772 - seletest -INFO - captured the timetrack Title
+2021-06-24 14:29:35,077 - seletest -INFO - Selected new customer
+2021-06-24 14:29:35,235 - seletest -INFO - Entered customer name
+2021-06-24 14:29:35,381 - seletest -INFO - Entered project name
+2021-06-24 14:29:35,502 - seletest -INFO - Enter Task Name
+2021-06-24 14:29:41,010 - seletest -INFO - Task Creation is unsuccesful
+2021-06-24 14:32:36,496 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:32:42,255 - seletest -INFO - Entered UserName
+2021-06-24 14:32:42,475 - seletest -INFO - Entered Password
+2021-06-24 14:32:43,409 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:32:43,416 - seletest -INFO - Login Successful
+2021-06-24 14:32:48,427 - seletest -INFO - Login Successful
+2021-06-24 14:32:53,547 - seletest -INFO - Login test passed
+2021-06-24 14:32:57,306 - seletest -INFO - ActiTime Loging test failed
+2021-06-24 14:34:05,266 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:34:05,876 - seletest -INFO - Entered UserName
+2021-06-24 14:34:06,185 - seletest -INFO - Entered Password
+2021-06-24 14:34:06,481 - seletest -INFO - Login Successful
+2021-06-24 14:34:06,484 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:34:11,503 - seletest -INFO - Login Successful
+2021-06-24 14:34:16,523 - seletest -INFO - Login test passed
+2021-06-24 14:35:35,777 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:35:36,125 - seletest -INFO - Entered UserName
+2021-06-24 14:35:36,237 - seletest -INFO - Entered Password
+2021-06-24 14:35:36,460 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:35:41,472 - seletest -INFO - Login Successful
+2021-06-24 14:35:46,476 - seletest -INFO - Login test passed
+2021-06-24 14:35:59,092 - seletest -INFO - Login Successful
+2021-06-24 14:36:08,918 - seletest -INFO - In create timetrack task screen
+2021-06-24 14:36:08,993 - seletest -INFO - captured the timetrack Title
+2021-06-24 14:36:09,251 - seletest -INFO - Selected new customer
+2021-06-24 14:36:09,429 - seletest -INFO - Entered customer name
+2021-06-24 14:36:09,560 - seletest -INFO - Entered project name
+2021-06-24 14:36:09,686 - seletest -INFO - Enter Task Name
+2021-06-24 14:36:15,166 - seletest -INFO - Task Creation is unsuccesful
+2021-06-24 14:38:19,890 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 14:38:20,925 - seletest -INFO - Entered UserName
+2021-06-24 14:38:21,986 - seletest -INFO - Entered Password
+2021-06-24 14:38:22,228 - seletest -INFO - Login Successful
+2021-06-24 14:38:22,242 - seletest -INFO - Clicked on Login Button
+2021-06-24 14:38:27,247 - seletest -INFO - Login Successful
+2021-06-24 14:38:32,274 - seletest -INFO - Login test passed
+2021-06-24 17:40:29,398 - seletest -INFO - ActiTime URL is Launched
+2021-06-24 17:40:30,505 - seletest -INFO - Entered UserName
+2021-06-24 17:40:30,739 - seletest -INFO - Entered Password
+2021-06-24 17:40:30,874 - seletest -INFO - Clicked on Login Button
+2021-06-24 17:40:35,885 - seletest -INFO - Login Successful
+2021-06-24 17:40:40,893 - seletest -INFO - Login test passed
+2021-06-24 17:40:53,786 - seletest -INFO - Login Successful
+2021-06-24 17:41:03,917 - seletest -INFO - In create timetrack task screen
+2021-06-24 17:41:04,082 - seletest -INFO - captured the timetrack Title
+2021-06-24 17:41:04,322 - seletest -INFO - Selected new customer
+2021-06-24 17:41:04,450 - seletest -INFO - Entered customer name
+2021-06-24 17:41:04,594 - seletest -INFO - Entered project name
+2021-06-24 17:41:04,722 - seletest -INFO - Enter Task Name
+2021-06-24 17:47:50,818 - seletest -INFO - Login Successful
+2021-06-24 17:48:01,463 - seletest -INFO - In create timetrack task screen
+2021-06-24 17:48:01,505 - seletest -INFO - captured the timetrack Title
+2021-06-24 17:48:01,754 - seletest -INFO - Selected new customer
+2021-06-24 17:48:01,874 - seletest -INFO - Entered customer name
+2021-06-24 17:48:01,995 - seletest -INFO - Entered project name
+2021-06-24 17:48:02,118 - seletest -INFO - Enter Task Name
+2021-06-24 17:48:02,238 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 17:59:23,703 - seletest -INFO - Login Successful
+2021-06-24 17:59:33,825 - seletest -INFO - In create timetrack task screen
+2021-06-24 17:59:33,964 - seletest -INFO - captured the timetrack Title
+2021-06-24 17:59:34,224 - seletest -INFO - Selected new customer
+2021-06-24 17:59:34,352 - seletest -INFO - Entered customer name
+2021-06-24 17:59:34,480 - seletest -INFO - Entered project name
+2021-06-24 17:59:34,608 - seletest -INFO - Enter Task Name
+2021-06-24 17:59:34,736 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:02:10,351 - seletest -INFO - Login Successful
+2021-06-24 18:02:21,551 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:02:21,587 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:02:21,839 - seletest -INFO - Selected new customer
+2021-06-24 18:02:21,967 - seletest -INFO - Entered customer name
+2021-06-24 18:02:22,090 - seletest -INFO - Entered project name
+2021-06-24 18:02:22,226 - seletest -INFO - Enter Task Name
+2021-06-24 18:02:22,346 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:02:22,414 - seletest -INFO - Got the Month year Head
+2021-06-24 18:23:55,760 - seletest -INFO - Login Successful
+2021-06-24 18:24:06,808 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:24:06,853 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:24:07,110 - seletest -INFO - Selected new customer
+2021-06-24 18:24:07,244 - seletest -INFO - Entered customer name
+2021-06-24 18:24:07,414 - seletest -INFO - Entered project name
+2021-06-24 18:24:07,535 - seletest -INFO - Enter Task Name
+2021-06-24 18:24:07,671 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:24:07,749 - seletest -INFO - Got the Month year Head
+2021-06-24 18:25:02,239 - seletest -INFO - Login Successful
+2021-06-24 18:25:11,668 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:25:11,709 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:25:11,971 - seletest -INFO - Selected new customer
+2021-06-24 18:25:12,097 - seletest -INFO - Entered customer name
+2021-06-24 18:25:12,240 - seletest -INFO - Entered project name
+2021-06-24 18:25:12,374 - seletest -INFO - Enter Task Name
+2021-06-24 18:25:12,514 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:25:12,573 - seletest -INFO - Got the Month year Head
+2021-06-24 18:35:26,730 - seletest -INFO - Login Successful
+2021-06-24 18:35:35,964 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:35:36,004 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:35:36,269 - seletest -INFO - Selected new customer
+2021-06-24 18:35:36,404 - seletest -INFO - Entered customer name
+2021-06-24 18:35:36,526 - seletest -INFO - Entered project name
+2021-06-24 18:35:36,660 - seletest -INFO - Enter Task Name
+2021-06-24 18:35:36,785 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:35:36,851 - seletest -INFO - Got the Month year Head
+2021-06-24 18:35:36,877 - seletest -INFO - Split of month and year is done
+2021-06-24 18:46:23,314 - seletest -INFO - Login Successful
+2021-06-24 18:46:33,356 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:46:33,397 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:46:33,661 - seletest -INFO - Selected new customer
+2021-06-24 18:46:33,814 - seletest -INFO - Entered customer name
+2021-06-24 18:46:33,972 - seletest -INFO - Entered project name
+2021-06-24 18:46:34,100 - seletest -INFO - Enter Task Name
+2021-06-24 18:46:34,231 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:46:34,298 - seletest -INFO - Got the Month year Head
+2021-06-24 18:46:34,326 - seletest -INFO - Split of month and year is done
+2021-06-24 18:50:55,162 - seletest -INFO - Login Successful
+2021-06-24 18:51:11,491 - seletest -INFO - In create timetrack task screen
+2021-06-24 18:51:11,536 - seletest -INFO - captured the timetrack Title
+2021-06-24 18:51:11,842 - seletest -INFO - Selected new customer
+2021-06-24 18:51:12,063 - seletest -INFO - Entered customer name
+2021-06-24 18:51:12,188 - seletest -INFO - Entered project name
+2021-06-24 18:51:12,309 - seletest -INFO - Enter Task Name
+2021-06-24 18:51:12,434 - seletest -INFO - clicked on deadline1 calender
+2021-06-24 18:51:12,530 - seletest -INFO - Got the Month year Head
+2021-06-24 18:51:12,556 - seletest -INFO - Split of month and year is done
+2021-07-07 08:32:52,533 - seletest -INFO - Login Successful
+2021-07-07 08:33:05,026 - seletest -INFO - In create timetrack task screen
+2021-07-07 08:33:05,245 - seletest -INFO - captured the timetrack Title
+2021-07-07 08:33:05,547 - seletest -INFO - Selected new customer
+2021-07-07 08:33:06,347 - seletest -INFO - Entered customer name
+2021-07-07 08:33:06,517 - seletest -INFO - Entered project name
+2021-07-07 08:33:06,685 - seletest -INFO - Enter Task Name
+2021-07-07 08:33:06,820 - seletest -INFO - clicked on deadline1 calender

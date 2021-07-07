@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="true" thread-count="1">
+
+<listeners>
+	<listener class-name ="com.dcrs.utilities.Reporting"/>
+</listeners>
+
+  <test name="LoginPageTest">
+  
+  <parameter name ="browser" value ="chrome">
+  
+<classes> 
+	<!--  <class name = "com.dcrs.testscripts.LoginTC01_ValidUser"/>  -->
+	<class name = "com.dcrs.testscripts.TimeTrackTest_TC01_createNewTask"/>  -->
+	 
+</classes>
+		
+	</parameter>
+  
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
