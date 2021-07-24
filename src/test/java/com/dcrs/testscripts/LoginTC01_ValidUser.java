@@ -44,7 +44,7 @@ public class LoginTC01_ValidUser extends BaseTest{
 		}	
 		catch(Exception e)
 		{
-			logger.info("ActiTime Loging test failed");
+			//logger.info("ActiTime Loging test failed");
 		}
 		
 		
