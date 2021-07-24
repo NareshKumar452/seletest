@@ -29,7 +29,7 @@ public class LoginPage extends BasePage{
 	
 	public void setUserName(String username)
 	{
-		textUserName.sendKeys(username);
+		//textUserName.sendKeys(username);
 	}
 	
 	public void setInvalidUser(String invalidUser)
