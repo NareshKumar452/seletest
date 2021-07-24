@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<suite name="Suite" parallel="true" thread-count="1">
+<suite name="seletest">
 
 <listeners>
 	<listener class-name ="com.dcrs.utilities.Reporting"/>
